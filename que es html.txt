@@ -1,0 +1,15 @@
+¿Qué es HTML?
+	• Definición: HTML significa HyperText Markup Language. Es un lenguaje de marcado que define la estructura de las páginas web.
+	• Diferencia entre HTML, CSS y JavaScript: HTML estructura, CSS da estilo y JavaScript añade interactividad.
+
+¿Para qué se usa HTML?
+Crear la estructura y el contenido de una página web.
+
+Ejemplos de sitios web famosos que usan HTML.
+	• Ejemplo: Todos los sitios web, como Google, Facebook y Wikipedia, están estructurados con HTML.
+
+Conceptos básicos de HTML 
+Estructura básica de un documento HTML:
+	• Etiqueta de apertura y cierre.
+Explicar que HTML usa etiquetas, como <html>, para definir elementos. Todas las etiquetas tienen una apertura y, en muchos casos, una etiqueta de cierre: <html></html>.
+
